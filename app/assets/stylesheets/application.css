@@ -23,9 +23,44 @@
 p{
 	display: block;
 	margin: 30px;
+	font-size: 13px;
+	line-height: 18px;
 }
 
 h1{
 	display: block;
 	margin: 20px auto;
+}
+
+#notice{
+	color: green;
+}
+
+td {
+	padding-bottom: 7px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.new-book{
+	display: block;
+	margin-top: 16px;
+}
+
+body{
+	font-size: 13px;
+	line-height: 18px;
+	margin: 33px;
+}
+
+strong{
+	font-weight: bold;
+}
+
+a:visited {
+    color: #666;
+}
+
+a {
+    color: #000;
 }
